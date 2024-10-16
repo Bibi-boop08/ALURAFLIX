@@ -1,7 +1,7 @@
 # ALURAFLIX
 
 ### Filmes:
-~ Orgulho e Preconceito
+* Orgulho e Preconceito
 ~ Malévola
 ~ A Mulher Rei
 ~ A Noiva Cadáver
